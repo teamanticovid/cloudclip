@@ -1,0 +1,5 @@
+Hi, 
+
+please do not upgrade from your existing v1 to v2. V2 is new major version and contains break changes. The migration process from v1 to v2 will be part of upcomming upgrades in April. Thank you for your patience. 
+
+Peter 
